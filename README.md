@@ -6,13 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-alselwady&label=Profile%20views&color=4DC81F&style=flat" alt="ZakariaAl-honyny" /> </p>
 
-- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Bootstrap**
+- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Bootstrap**, **React**
 
 - 📫 How to reach me **zakaria.alhonynyy@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zakaria-alhonyny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-alhonyny" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUWdXKZ6l7fHa3yw2jkdj4g" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khaled al-selwady" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +30,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="45" height="45"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2023/10/React-Logo.png" alt="react" width="47" height="47"/></a>
 </p>
 <br>
 <div>
