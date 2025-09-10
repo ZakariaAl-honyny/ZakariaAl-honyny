@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px">, I'm Zakaria</h1>
@@ -49,7 +50,7 @@
 <br>
 <br>
 <br><br><br><br><br><br>
-
+-->
 
 
 <!--
@@ -65,4 +66,117 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<h1 align="start"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px"> Hello, I'm Zakaria Alhonyny!</h1>
+
+**Software Engineer | .NET Specialist**
+
+Welcome to my GitHub! I’m a passionate developer focused on building scalable, maintainable desktop and web applications using .NET and modern JavaScript frameworks. I enjoy solving complex problems, optimizing systems, learning new technologies, and continuously learning.
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages**: C++, C#
+- **Frameworks**: .NET (Core & Framework), ASP.NET Core (MVC | Web API)
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, jQuery, React(Next.js)
+- **Database**: SQL Server, MySQL, T-SQL, ADO.NET
+- **Design**: SOLID Principles, Design Patterns (Provider, Dependency injection, Three-Tier 
+Architecture, Publisher and Subscriber)  
+- **Tools**: Git, GitHub, Postman, Swagger  
+
+---
+
+## 🌟 Featured Projects  
+
+### [Driving And Vehicle License Department API](https://github.com/ZakariaAl-honyny/Driving-and-Vehicle-License-Department-API)  
+A RESTful Web API using C# ASP.NET Core, a 3-tier architecture, Integrated with SQL Server, MVC.  
+**Tech:** C# ASP.NET Core, a 3-tier architecture, Integrated with SQL Server
+
+### [Driving and Vehicle License Department(DVLD)](https://github.com/ZakariaAl-honyny/Driving-and-Vehicle-License-Department-DVLD)  
+A full stack desktop application for managing local and international driver’s licenses.  
+**Tech:** C# .NET Framework, Win-forms, SQL Server, SQL & T-SQL, ADO.NET, 3-Tier Architecture, Publisher and Subscriber deign pattern.
+
+### [API Weather Project](https://github.com/ZakariaAl-honyny/API-Weather-Project)  
+A modern weather web app using Next.js, React, and Redux with bilingual support and Material UI.  
+**Tech:** Next.js, React, Redux, Material UI, OpenWeatherMap API  
+[Live Demo](https://api-weather-project-ad971.netlify.app/)
+
+### [Todo List Project](https://github.com/ZakariaAl-honyny/Todo-List-Project)  
+A clean and responsive Todo List web app  with Material UI and Arabic support.  
+**Tech:** React, Next.js, Material UI, Context API  
+[Live Demo](https://todo-list-ae98b7.netlify.app/)
+
+### [Bondi Website](https://github.com/ZakariaAl-honyny/Bondi-Website)  
+A simple, clean, responsive static website.  
+**Tech:** HTML5, CSS3, Bootstrap  
+[Live Site](https://zakariaal-honyny.github.io/Bondi-Website/)
+
+### [Memory Blocks Game](https://github.com/ZakariaAl-honyny/Memory-Blocks-Game)  
+An interactive memory blocks game built with vanilla JS and CSS.  
+**Tech:** HTML, CSS, JavaScript  
+[Play Online](https://zakariaal-honyny.github.io/Memory-Blocks-Game/)
+
+### [Dashboard Website](https://github.com/ZakariaAl-honyny/Dashboard-Website)  
+A fully responsive static website template build with HTML5 and CSS3, and I build my customCSS Framework and use it.  
+**Tech:** HTML, CSS, JavaScript  
+[Live Site](https://zakariaal-honyny.github.io/Dashboard-Website/)
+
+### [Elzero Website](https://github.com/ZakariaAl-honyny/Elzero-Website)  
+A simple, clean, responsive website Built with html5, CSS3.  
+**Tech:** HTML, CSS, JavaScript  
+[Live Site](https://zakariaal-honyny.github.io/Elzero-Website/)
+
+### [SQL Query And Database](https://github.com/ZakariaAl-honyny/SQL-Query-and-Database)  
+A collection of practical SQL scripts demonstrating fundamental and advanced database operations.   
+**Tech:** SQL, SQL Server
+
+### [Bank](https://github.com/ZakariaAl-honyny/Bank)  
+A C++ console application for managing banking operations.  
+**Tech:** C++, Object-Oriented & Functional Programming, Custom Libraries, text file as database
+
+### [Data Structures](https://github.com/ZakariaAl-honyny/Data-Structures)  
+Data structures contain DblLinked List, Dynamic Array, Queue, Queue Array, QueueLine, Stack, Stack Array, and Undo Redo String projects programming by using OOP and C++.  
+**Tech:** C++, Object-Oriented & Functional Programming
+
+---
+
+## 🎓 Education & Certifications  
+- **B.Sc. in Information Technology(IT)** – Azal University, Yemen (2026)
+- Completed **24 Courses** ([ProgrammingAdvices](https://programmingadvices.com/p/roadmap/))
+- Completed courses on .NET Core MVC, React, and Front-End development  
+- Ongoing learning in full-stack development and cloud deployment
+
+---
+
+## 📫 Connect with Me  
+- **Email:** [zakaria.alhonyny@gmail.com](mailto:zakaria.alhonyny@gmail.com)  
+- **LinkedIn:** [Zakaria Al-honyny](https://www.linkedin.com/in/zakaria-al-honyny/)
+
+<!--
+## 🚀 About Me
+
+- 🔭 I’m currently working on: A multilingual weather app using **React**, **Next.js**, and **Tailwind CSS**
+- 🌱 I’m currently learning: **TypeScript**, **GraphQL**, and **Docker**
+- 👯 I’m looking to collaborate on: Open-source projects that improve accessibility and localization
+- 🤔 I’m looking for help with: Performance optimization in large-scale React apps
+- 💬 Ask me about: Frontend development, Git workflows, or building responsive UIs
+- 📫 How to reach me: [zakaria.dev@example.com](mailto:zakaria.dev@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a full ATM simulation in C++—yes, with screen management and all!
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZakariaAl-honyny&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAl-honyny&layout=compact&theme=radical)
 -->
