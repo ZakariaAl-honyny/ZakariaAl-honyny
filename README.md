@@ -83,7 +83,7 @@ Data structures contain DblLinked List, Dynamic Array, Queue, Queue Array, Queue
 
 ## 📫 Connect with Me  
 - **Email:** [zakaria.alhonyny@gmail.com](mailto:zakaria.alhonyny@gmail.com)  
-- **LinkedIn:** [Zakaria Alhonyny]((https://www.linkedin.com/in/zakaria-alhonyny-6686ba373/)
+- **LinkedIn:** [Zakaria Alhonyny](https://www.linkedin.com/in/zakaria-alhonyny-6686ba373/)
 - **Phone:** +967 773 497 550
 
 ---
