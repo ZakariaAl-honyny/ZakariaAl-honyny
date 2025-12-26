@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a passionate developer focused on building scalable,
 - **Languages**: C++, C#
 - **Frameworks**: .NET (Core & Framework), ASP.NET Core (MVC | Web API)
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, jQuery, React(Next.js)
-- **Database**: SQL Server, MySQL, T-SQL, ADO.NET
+- **Database**: SQL Server, MySQL, T-SQL, ADO.NET, EF Core
 - **Design**: SOLID Principles, Design Patterns (Provider, Dependency injection, Three-Tier 
 Architecture, Publisher and Subscriber)  
 - **Tools**: Git, GitHub, Postman, Swagger  
@@ -18,16 +18,6 @@ Architecture, Publisher and Subscriber)
 ---
 
 ## 🌟 Featured Projects  
-
-### [Driving And Vehicle License Department API](https://github.com/ZakariaAl-honyny/Driving-and-Vehicle-License-Department-API)  
-A RESTful Web API using C# ASP.NET Core, a 3-tier architecture, Integrated with SQL Server, MVC.  
-**Tech:** C# ASP.NET Core, a 3-tier architecture, Integrated with SQL Server  
-[Demo on Youtube](https://www.youtube.com/watch?v=bFAXlBNqXRs&list=PLoZjsLV46b6XexrhVZzgtKzYohF7p0dI0/)
-
-### [Driving and Vehicle License Department(DVLD)](https://github.com/ZakariaAl-honyny/Driving-and-Vehicle-License-Department-DVLD)  
-A full stack desktop application for managing local and international driver’s licenses.  
-**Tech:** C# .NET Framework, Win-forms, SQL Server, SQL & T-SQL, ADO.NET, 3-Tier Architecture, Publisher and Subscriber deign pattern.  
-[Demo on Youtube](https://www.youtube.com/watch?v=sCJbvRBaesg&list=PLoZjsLV46b6XexrhVZzgtKzYohF7p0dI0&index=2/)
 
 ### [API Weather Project](https://github.com/ZakariaAl-honyny/API-Weather-Project)  
 A modern weather web app using Next.js, React, and Redux with bilingual support and Material UI.  
@@ -39,6 +29,17 @@ A clean and responsive Todo List web app  with Material UI and Arabic support.
 **Tech:** React, Next.js, Material UI, Context API  
 [Live Demo](https://todo-list-ae98b7.netlify.app/)
 
+### [Driving And Vehicle License Department API](https://github.com/ZakariaAl-honyny/Driving-and-Vehicle-License-Department-API)  
+A RESTful Web API using C# ASP.NET Core, a 3-tier architecture, Integrated with SQL Server, MVC.  
+**Tech:** C# ASP.NET Core, a 3-tier architecture, Integrated with SQL Server  
+[Demo on Youtube](https://www.youtube.com/watch?v=bFAXlBNqXRs&list=PLoZjsLV46b6XexrhVZzgtKzYohF7p0dI0/)
+
+### [Driving and Vehicle License Department(DVLD)](https://github.com/ZakariaAl-honyny/Driving-and-Vehicle-License-Department-DVLD)  
+A full stack desktop application for managing local and international driver’s licenses.  
+**Tech:** C# .NET Framework, Win-forms, SQL Server, SQL & T-SQL, ADO.NET, 3-Tier Architecture, Publisher and Subscriber deign pattern.  
+[Demo on Youtube](https://www.youtube.com/watch?v=sCJbvRBaesg&list=PLoZjsLV46b6XexrhVZzgtKzYohF7p0dI0&index=2/)
+
+<!--
 ### [Bondi Website](https://github.com/ZakariaAl-honyny/Bondi-Website)  
 A simple, clean, responsive static website.  
 **Tech:** HTML5, CSS3, Bootstrap  
@@ -70,7 +71,7 @@ A C++ console application for managing banking operations.
 ### [Data Structures](https://github.com/ZakariaAl-honyny/Data-Structures)  
 Data structures contain DblLinked List, Dynamic Array, Queue, Queue Array, QueueLine, Stack, Stack Array, and Undo Redo String projects programming by using OOP and C++.  
 **Tech:** C++, Object-Oriented & Functional Programming
-
+-->
 ---
 
 ## 🎓 Education & Certifications  
