@@ -99,7 +99,7 @@ A full-stack desktop application for managing local and international driver’s
 
 ## 🎓 Education & Certifications
 
-- **B.Sc. in Information Technology (IT)** – Azal University, Yemen (Expected 2026)
+- **B.Sc. in Information Technology (IT)** – Azal University, Yemen (2026)
 - **Programming Advices Foundation** – Completed 24 rigorous courses ([View Roadmap](https://programmingadvices.com/p/roadmap/)) covering Fundamentals, OOP, Data Structures, Algorithms, and DB Design.
 - **Continuous Learning** – Ongoing focus on Full-Stack Development, React, and .NET Core.
 
