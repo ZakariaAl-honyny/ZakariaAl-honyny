@@ -8,8 +8,8 @@ Welcome to my GitHub! I’m a passionate developer focused on building scalable,
 
 ## 🚀 About Me
 
-- 🔭 **Focus**: Building robust full-stack applications with C#, .NET, and React/Next.js.
-- 🌱 **Currently Learning**: Cloud deployment, advanced frontend architectures, and performance optimization.
+- 🔭 **Focus**: Building robust enterprise-level full-stack applications with C#/.NET, and integrating AI Agents & LLMs into modern solutions.
+- 🌱 **Currently Learning**: Advanced AI models, Cloud deployment, and software architecture optimization.
 - 👯 **Collaboration**: Open to open-source contributions and exciting new projects.
 
 ---
@@ -17,32 +17,32 @@ Welcome to my GitHub! I’m a passionate developer focused on building scalable,
 ## 🛠️ Tech Stack
 
 **Backend & Database:**
-- **Languages:** C#, C++, SQL, T-SQL
+- **Languages:** C#, C++, SQL, T-SQL, Python
 - **Frameworks:** .NET (Core & Framework), ASP.NET Core (MVC & Web API)
 - **Databases:** SQL Server, MySQL, ADO.NET, Entity Framework Core
 
 **Frontend:**
-- **Languages:** HTML5, CSS3, JavaScript
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript
 - **Libraries/Frameworks:** React, Next.js, Bootstrap, jQuery, Material UI
 
-**Architecture & Tools:**
-- **Principles:** SOLID, Design Patterns (Dependency Injection, 3-Tier Architecture, Publisher-Subscriber)
-- **Tools:** Git, GitHub, Postman, Swagger
+**Architecture & AI Tools:**
+- **Principles:** Clean Architecture, SOLID, Design Patterns (Dependency Injection, 3-Tier Architecture)
+- **Tools:** Git, GitHub, Postman, Swagger, Gemini AI / LLMs
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🌤️ [API Weather Project](https://github.com/ZakariaAl-honyny/API-Weather-Project)
-A modern weather web app using Next.js, React, and Redux with bilingual support and Material UI.  
-**Tech:** Next.js, React, Redux, Material UI, OpenWeatherMap API | [Live Demo](https://api-weather-project-ad971.netlify.app/)
+### 🏢 [Sales Management System](https://github.com/ZakariaAl-honyny/Sales-Management-System)
+A comprehensive enterprise-level sales management platform for small-to-medium retail businesses.  
+**Tech:** C# .NET 9.0, Clean Architecture, RESTful API Backend, Windows Forms Desktop Client.
 
-### ✅ [Todo List Project](https://github.com/ZakariaAl-honyny/Todo-List-Project)
-A clean and responsive Todo List web app with Material UI and Arabic support.  
-**Tech:** React, Next.js, Material UI, Context API | [Live Demo](https://todo-list-ae98b7.netlify.app/)
+### 🤖 [Specific AI Chatbot](https://github.com/ZakariaAl-honyny/Specific-AI-Chatbot)
+A specialized AI agent chatbot built to interact intelligently using modern LLMs.  
+**Tech:** Python, Gemini AI, HTML-based UI.
 
 ### 🚗 [Driving And Vehicle License Department API](https://github.com/ZakariaAl-honyny/Driving-and-Vehicle-License-Department-API)
-A RESTful Web API built with a 3-tier architecture.  
+A robust RESTful Web API built with a clean 3-tier architecture for managing driver operations.  
 **Tech:** C#, ASP.NET Core, SQL Server, MVC | [Demo on YouTube](https://www.youtube.com/watch?v=bFAXlBNqXRs&list=PLoZjsLV46b6XexrhVZzgtKzYohF7p0dI0/)
 
 ### 🚙 [Driving and Vehicle License Department (DVLD)](https://github.com/ZakariaAl-honyny/Driving-and-Vehicle-License-Department-DVLD)
@@ -57,19 +57,19 @@ A full-stack desktop application for managing local and international driver’s
 <br/>
 
 ### 💻 Desktop & Full-Stack (C# / .NET)
-- **[Sales Management System](https://github.com/ZakariaAl-honyny/Sales-Management-System)** - A comprehensive desktop client and RESTful API backend built with Clean Architecture.
 - **[Sales Management Project](https://github.com/ZakariaAl-honyny/Sales-Management-Project)** - A Windows Forms desktop application for managing sales operations, built with .NET 9.0.
 - **[Student API](https://github.com/ZakariaAl-honyny/Student_API)** - A practical project demonstrating student records management, integrating a backend API with a console-based client application.
 - **[SOLID Principles](https://github.com/ZakariaAl-honyny/SOLID-Principles)** - Implementations and examples of SOLID principles in C#.
 
-### 📱 Mobile & Web (Flutter / Dart / TypeScript)
+### 📱 Mobile & Web (React / Next.js / Flutter / TypeScript)
+- **[API Weather Project](https://github.com/ZakariaAl-honyny/API-Weather-Project)** - Next.js, React, and Redux with bilingual support and Material UI. | [Live Demo](https://api-weather-project-ad971.netlify.app/)
+- **[Todo List Project](https://github.com/ZakariaAl-honyny/Todo-List-Project)** - Clean and responsive Todo List web app. | [Live Demo](https://todo-list-ae98b7.netlify.app/)
 - **[Mojaz](https://github.com/ZakariaAl-honyny/Mojaz)** - Government Driving License Management System built with TypeScript.
 - **[ecommerce_app](https://github.com/ZakariaAl-honyny/ecommerce_app)** - An e-commerce mobile app built with Flutter and Dart.
 - **[Travel-app](https://github.com/ZakariaAl-honyny/Travel-app)** - A Flutter app for showcasing beautiful travel destinations.
 - **[Flutter Courses & Widgets](https://github.com/ZakariaAl-honyny/flutter-with-provider_course)** - Various implementations of Flutter state management (Provider, GetX), Firebase integration, and widgets learning.
 
 ### 🤖 AI, Machine Learning & Python
-- **[Specific AI Chatbot](https://github.com/ZakariaAl-honyny/Specific-AI-Chatbot)** - A specialized AI chatbot built with Gemini AI and an HTML-based user interface.
 - **[Machine Learning](https://github.com/ZakariaAl-honyny/Machine-Learning)** - Developing a custom AI model from scratch through machine learning, trained exclusively on data using Jupyter Notebooks.
 - **[Data Analysis Project](https://github.com/ZakariaAl-honyny/Data-Analysis-Project)** - Data analysis processes using Python and Jupyter Notebook.
 
